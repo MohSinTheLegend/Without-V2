@@ -1,7 +1,7 @@
 # MOHSIN ALI THE BRAND
 # THIS TOOLS IS FULL WORKING FOR ALL COUNTRIES
 
-# apt update
+ *apt update
 
 # apt upgrade 
 
