@@ -3,22 +3,22 @@
 
  *apt update
 
-# apt upgrade 
+*apt upgrade 
 
-# apt install git 
+*apt install git 
 
-# apt install python 
+*apt install python 
 
-# apt install python2
+*apt install python2
 
-# pip2 install requests
+*pip2 install requests
 
-# pip2 install mechanize  
-#       RUN SCRIPT 
+*pip2 install mechanize  
+       *RUN SCRIPT 
 
-# git clone https://github.com/MohSinTheLegend/Without-V2
-# cd Without-V2
-# python2 MOHSIN.py
+*git clone https://github.com/MohSinTheLegend/Without-V2
+*cd Without-V2
+*python2 MOHSIN.py
 
 # TOOL USERNAME MOHSIN
 # TOOL PASSWORD SYCO![Screenshot_2021-03-20-11-23-16-39](https://user-images.githubusercontent.com/72184388/111861479-647a2100-8970-11eb-8e91-2f25e42257ff.jpg)
